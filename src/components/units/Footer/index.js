@@ -18,14 +18,6 @@ const Footer = (props) => {
       </section>
 
       <section className="Footer__Items">
-        {/* <a
-          href="https://youtu.be/JFjvVmvC3pQ"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="Footer__Link"
-        >
-          Demo
-        </a> */}
         <a
           href="https://github.com/abhinav80066/Sorting-Algorithms-Visualizer"
           target="_blank"

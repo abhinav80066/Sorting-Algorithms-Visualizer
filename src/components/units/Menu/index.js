@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import './style.css';
 
 // Sub components
-import Backdrop from '../..chapters/Backdrop';
+import Backdrop from '../../chapters/Backdrop';
 import {
   MdExpandMore as AngleDown,
   MdExpandLess as AngleUp
