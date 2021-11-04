@@ -13,7 +13,7 @@ const Footer = (props) => {
           rel="noopener noreferrer"
           className="Footer__Link"
         >
-          Abhinav Chaudhary, Chetan Chauhan, Damini Pandey, Pranjal Gupta.
+          Abhinav Chaudhary.
         </a>
       </section>
 
